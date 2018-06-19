@@ -4,6 +4,11 @@
         "USD",
         "JPY"
     ],
+    "Kyobit": [
+        "BTC",
+        "USD",
+        "JPY"
+    ],
     "Fixed100Sat": [
         "BTC",
         "USD",
